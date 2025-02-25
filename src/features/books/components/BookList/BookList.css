@@ -1,0 +1,22 @@
+.book {
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease-in-out;
+}
+
+.book:hover {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+}
+
+.book h3 {
+    margin: 10px 0;
+    font-size: 1.3rem;
+}
+
+.book p {
+    color: #555;
+}
