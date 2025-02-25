@@ -18,8 +18,6 @@ pids
 # Coverage directory for Jest
 /coverage/
 
-# Build artifacts
-/build/
 
 # Environment Variables
 .env
