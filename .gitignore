@@ -1,0 +1,49 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+logs
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory for Jest
+/coverage/
+
+# Build artifacts
+/build/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE files (e.g., VSCode)
+.vscode/
+.idea/
+
+# Cache files
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# TypeScript build outputs
+*.tsbuildinfo
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# React specific
+/.eslintcache
+/dist/
+/public/*.cache
+*.env
